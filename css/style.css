@@ -26,14 +26,14 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 8.2em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -41,6 +41,7 @@ h2 {
 
 h3 {
   font-weight: normal;
+  font-size: .80em;
   letter-spacing: .3em;
   margin-bottom: 18px;
   line-height: 1em;
@@ -48,14 +49,14 @@ h3 {
 
 h4 {
   font-weight: normal;
-  font-size: .7em;
-  letter-spacing: .4em;
+  font-size: .8em;
+  letter-spacing: .1em;
   margin-bottom: 9px;
   line-height: 1em;
 }
 
 p {
-  font-size: .9em;
+  font-size: .7em;
   line-height: 1.8em;
   letter-spacing: .103em;
   margin-bottom: 15px;
@@ -63,7 +64,7 @@ p {
 
 span {
   display: inline-block;
-  font-size: 1em;
+  font-size: .8em;
   line-height: 1em;
   letter-spacing: .35em;
   vertical-align: top;
@@ -107,6 +108,9 @@ img {
   width: 252px;
   height: 165px;
   background: rgba(247,211,27,1);
-  margin-left: 163px;
+  margin: 20px auto ;
+  margin-left: 165px;
+  margin-top: 0px;
+  text-align: center;
   padding-top: 25px;
 }
